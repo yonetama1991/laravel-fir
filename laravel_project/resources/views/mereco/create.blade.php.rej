@@ -1,0 +1,10 @@
+diff a/laravel_project/resources/views/mereco/create.blade.php b/laravel_project/resources/views/mereco/create.blade.php	(rejected hunks)
+@@ -15,6 +15,7 @@
+         <input type="text" name="address" id="address"><br>
+         <label for = "station">最寄り駅※</label>
+         <input type="text" name="station" id="station"><br>
++        あああああああ
+         
+     </form>
+ </body>
+\ No newline at end of file
