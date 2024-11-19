@@ -15,6 +15,8 @@
         <input type="text" name="address" id="address"><br>
         <label for = "station">最寄り駅※</label>
         <input type="text" name="station" id="station"><br>
+        <label for = "station">最寄り駅※</label>
+        <input type="text" name="station" id="station"><br>
         
     </form>
 </body>
