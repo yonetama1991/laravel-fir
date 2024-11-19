@@ -16,6 +16,7 @@
         <label for = "station">最寄り駅※</label>
         <input type="text" name="station" id="station"><br>
         あああああああ
+        いいいいい
         
     </form>
 </body>
